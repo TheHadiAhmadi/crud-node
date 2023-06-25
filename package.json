@@ -1,0 +1,19 @@
+{
+  "name": "crud-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ulibs/components": "^0.0.2-next.49",
+    "@ulibs/db": "^1.0.1-next.15",
+    "@ulibs/plugin": "^0.0.2-next.23",
+    "@ulibs/router": "^0.0.12"
+  }
+}
